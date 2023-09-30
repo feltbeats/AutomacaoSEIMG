@@ -4,6 +4,11 @@
 
 Este projeto tem como objetivo facilitar a verificação e monitoramento de processos de licenciamento ambiental no sistema SEI!MG, automatizando a coleta de informações sobre atualizações e respostas dos órgãos ambientais de forma dinâmica.
 
+### Como Utilizar
+**PYTHON E SELENIUM**
+- Instalar o Selenium;
+- Baixar o webdriver [chromedriver (Google Chrome) ou geckodriver (Firefox)].
+
 ### Funcionalidades Principais
 
 - **Coleta de Dados**: O projeto automatiza o processo de coleta de dados de processos de licenciamento ambiental, incluindo informações relevantes como datas de atualização, respostas dos órgãos, e mais.
